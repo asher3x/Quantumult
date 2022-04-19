@@ -1,2 +1,3 @@
 # Quantumult
  
+Self use.
