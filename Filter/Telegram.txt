@@ -10,4 +10,5 @@ ip-cidr, 149.154.167.151/32, proxy
 ip-cidr, 149.154.171.5/32, proxy
 ip-cidr, 149.154.175.50/32, proxy
 ip-cidr, 149.154.175.51/32, proxy
+ip-cidr, 149.154.175.53/32, proxy
 ip-cidr, 149.154.175.55/32, proxy
