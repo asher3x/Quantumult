@@ -1,4 +1,4 @@
-{
+var obj = {
     "user": {
         "created_date": 1606068146,
         "email": "5udnpnznn5@privaterelay.appleid.com",
@@ -51,3 +51,6 @@
         "expire_date": null
     }
 }
+$done({
+    body: JSON.stringify(obj)
+});
