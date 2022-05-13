@@ -14,8 +14,8 @@ var obj = {
         "features_rich": [{
                 "source": "subscription",
                 "name": "online-backup",
-                "source_value": "free",
-                "expire_date": null
+                "source_value": "premium",
+                "expire_date": 1800000000
             }, {
                 "source": "campaign",
                 "name": "smart-alarm",
