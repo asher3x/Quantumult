@@ -39,7 +39,7 @@ var obj = {
             "userId": "8a11c812-6f42-45d7-80b1-4e0fc389ca26",
             "distance": 51,
             "sendByMail": false,
-            "total": 2700,
+            "total": 1000,
             "hisPin": false,
             "termType": 0,
             "agentId": "D026A22AE372BC63669D744760B08329",
@@ -396,7 +396,7 @@ var obj = {
             "outerNotifyUrl": null,
             "originalSeqNo": 0,
             "couponCode": "",
-            "subtotal": 2700,
+            "subtotal": 1000,
             "correct": true,
             "mappropertyId": 0,
             "store": {
