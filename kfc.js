@@ -505,7 +505,7 @@ var obj = {
                     "show": true,
                     "price": 2700,
                     "departmentClassId": 0,
-                    "realPrice": 2700,
+                    "realPrice": 1000,
                     "condimentItems": [{
                             "couponCodeUseIndex": 0,
                             "orderId": "1651910730213073554",
