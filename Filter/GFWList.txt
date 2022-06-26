@@ -30,6 +30,7 @@ HOST-SUFFIX,gysd.nyc.gov.tw,DIRECT
 HOST-SUFFIX,hchcc.gov.tw,DIRECT
 HOST-SUFFIX,hsinchu-cc.gov.tw,DIRECT
 HOST-SUFFIX,iner.gov.tw,DIRECT
+HOST-SUFFIX,iqiyi.com,DIRECT
 HOST-SUFFIX,klsio.gov.tw,DIRECT
 HOST-SUFFIX,kmseh.gov.tw,DIRECT
 HOST-SUFFIX,lungtanhr.gov.tw,DIRECT
@@ -1523,7 +1524,6 @@ HOST-SUFFIX,ilbe.com,Proxy
 HOST-SUFFIX,ilovelongtoes.com,Proxy
 HOST-SUFFIX,imgmega.com,Proxy
 HOST-SUFFIX,imlive.com,Proxy
-HOST-SUFFIX,iqiyi.com,Proxy
 HOST-SUFFIX,javhub.net,Proxy
 HOST-SUFFIX,javhuge.com,Proxy
 HOST-SUFFIX,javlibrary.com,Proxy
